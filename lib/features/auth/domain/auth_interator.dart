@@ -38,4 +38,5 @@ class AuthInteractor {
     _localRepository.logOut();
     return _remoteRepository.logOut();
   }
+
 }
